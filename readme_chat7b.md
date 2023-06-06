@@ -47,7 +47,7 @@ The tokenizer used in the Aquila model was trained from scratch by us and suppor
 
 We used a series of high-quality Chinese and English datasets to train and fine-tune our conversational language model, and continuously updated it through iterations.
 
-![Screenshot](img/data.jpg)
+![Screenshot](data.jpg)
 
 
 ## 快速使用/Quick start
